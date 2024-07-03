@@ -15,8 +15,8 @@ public class Main {
         curso2.setCargaHoraria(60);
 
         Mentoria mentoria1 = new Mentoria();
-        mentoria1.setTitulo("AngularJS");
-        mentoria1.setDescricao("Mentoria de AngularJS");
+        mentoria1.setTitulo("mentoria de java");
+        mentoria1.setDescricao("descrição mentoria java");
         mentoria1.setData(LocalDate.now());
 
         Bootcamp bootcamp = new Bootcamp();
